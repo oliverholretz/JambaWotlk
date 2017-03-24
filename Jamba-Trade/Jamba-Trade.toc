@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Jamba-Trade
+## Notes: Jamba-Trade
+## Author: Jafula
+## Version: 0.7d
+## X-Category: Interface Enhancements
+## X-Child-Of: Jamba
+## Dependencies: Jamba
+## SavedVariables: JambaTradeProfileDB
+Locales\Locales.xml
+JambaTrade.lua

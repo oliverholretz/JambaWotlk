@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Jamba-Currency
+## Notes: Jamba-Currency
+## Author:Jafula
+## Version: 0.7o
+## X-Category: Interface Enhancements
+## X-Child-Of: Jamba
+## Dependencies: Jamba
+## SavedVariables: JambaCurrProfileDB
+Locales\Locales.xml
+JambaCurrency.lua
